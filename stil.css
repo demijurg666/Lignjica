@@ -1,0 +1,40 @@
+#pisati {
+  top: 0;
+  position: sticky;
+  display: grid;
+}
+
+#konverzacija {
+  text-transform: lowercase;
+  font-size: 30px;
+  border: 1px red solid;
+  background: white;
+  padding-left: 10px;
+}
+
+#mojTekst {
+  text-align: center;
+  font-size: 20px;
+  text-transform: lowercase;
+}
+
+#brojac {
+  color: red;
+  padding-bottom: 20px;
+  font-size: 40px;
+}
+
+body {
+  background-image: url("https://www.wallpapersun.com/wp-content/uploads/2020/06/648ef464f47ba6e25f63395656a00039-715x536.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#pobeda {
+  color: red;
+  font-size: 60px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
